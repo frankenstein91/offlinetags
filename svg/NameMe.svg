@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Gemini CLI - Offlinetags Addition -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="svg_nameme" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="744.094px" height="1052.363px" viewBox="0 0 744.094 1052.363" enable-background="new 0 0 744.094 1052.363" xml:space="preserve">
+<g transform="translate(-1871.3229,362.24018)">
+    <!-- Der violette Kreis -->
+    <path fill="#91278F" stroke="#000000" stroke-width="80" d="M2566.87,176.918c0,178.111-144.388,322.5-322.5,322.5c-178.111,0-322.5-144.389-322.5-322.5c0-178.112,144.389-322.5,322.5-322.5C2422.482-145.582,2566.87-1.195,2566.87,176.918z"/>
+    <!-- Das "N" Symbol -->
+    <path fill="#000000" d="M2130,340 L2130,10 L2210,10 L2300,220 L2300,10 L2380,10 L2380,340 L2300,340 L2210,130 L2210,340 Z" />
+</g>
+</svg>
