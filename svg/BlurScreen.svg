@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Gemini CLI - Offlinetags Addition (Blur Screen) -->
+<!-- Generator: Gemini CLI - Offlinetags Addition (Blur Screen) - FIXED -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="svg_blurscreen" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="744.094px" height="1052.363px" viewBox="0 0 744.094 1052.363" enable-background="new 0 0 744.094 1052.363" xml:space="preserve">
 <g transform="translate(-1871.3229,362.24018)">
     <!-- Der türkise Kreis -->
     <path fill="#00A99D" stroke="#000000" stroke-width="80" d="M2566.87,176.918c0,178.111-144.388,322.5-322.5,322.5c-178.111,0-322.5-144.389-322.5-322.5c0-178.112,144.389-322.5,322.5-322.5C2422.482-145.582,2566.87-1.195,2566.87,176.918z"/>
-    <!-- Das Monitor Symbol -->
-    <path fill="#000000" d="M2090,20 L2400,20 L2400,230 L2090,230 Z M2060,-10 L2430,-10 L2430,260 L2280,260 L2280,310 L2350,310 L2350,340 L2140,340 L2140,310 L2210,310 L2210,260 L2060,260 Z" />
-    <!-- Der Blur-Balken im Monitor -->
+    <!-- Das Monitor Symbol als Outline (Fill-Rule evenodd macht das Innere hohl) -->
+    <path fill="#000000" fill-rule="evenodd" d="M2060,-10 L2430,-10 L2430,260 L2280,260 L2280,310 L2350,310 L2350,340 L2140,340 L2140,310 L2210,310 L2210,260 L2060,260 Z M2090,20 L2090,230 L2400,230 L2400,20 Z" />
+    <!-- Der Blur-Balken im Monitor (jetzt auf türkisem Grund sichtbar) -->
     <rect x="2110" y="100" width="270" height="50" fill="#000000" />
 </g>
 </svg>
